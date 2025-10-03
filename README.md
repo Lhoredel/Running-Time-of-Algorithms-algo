@@ -1,1 +1,2 @@
 # Running-Time-of-Algorithms-algo
+This program solves the Running Time of Algorithms problem through the execution of the number of shifts during insertion sort. It runs the common insertion sort algorithm with the addition of a counter that is incremented every time an element is moved to the right. The sum of the total shifts is the time complexity measure of the algorithm, which gives a quantitative measure of the sorting process.**
